@@ -28,7 +28,6 @@ url: "https://ewhacll.github.io" # the base hostname & protocol for your site, e
 # Build settings
 #========
 destination: _site
-source: src
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -54,10 +53,7 @@ exclue: ['node_modules']
 nav_list:
   Home: ['Home', '/']
   News: ['News', '/news']
-  People: ['People', '/people', [
-    ['Current', '/people'],
-    ['Alumni', '/people/alumni']
-  ]]
+  People: ['People', '/people']
   Projects: ['Projects', '/projects']
   Publications: ['Publications', '/publications']
   Courses: ['Courses', '/courses']

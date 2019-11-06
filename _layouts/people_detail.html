@@ -45,14 +45,26 @@ layout: default
             </div>
 
             <div class="left_line_person">
-            {% if page.description %}
+              {% if page.description %}
               <p>{{page.description}}</p>
-            {% elsif page.group == 'professor' %}
-            <p>{{page.name}} is a professor in HCI+d lab.</p>
-            {% else %}
-            <p>{{page.name}} is a {{page.group}} student in HCI+d lab.</p>
-            {% endif %}
-          </div>
+              {% elsif page.group == 'professor' %}
+              <p>Dongsun Yim, Ph. D., CCC-SLP, Principal Investigator, is a tenure track associate professor of
+                Communication Disorders at EWHA Womans University. Before Dr. Yim joined Ewha, she was a faculty at
+                Northwestern University in the Department of Communication Sciences and Disorders and worked as a
+                researcher at Stanford University in Psychology Department. Dr. Yim has many years of expertise in the
+                area of monolingual and bilingual children with LI, with recent research focused on developing
+                processing-dependent tasks for these children. Her research interest focuses on the relationship between
+                nature and nurture piece of language learning, as well as providing clinical services to individuals
+                with communication disorders. Dr. Yim is also a Hanen Certified SLP and offers parent training for those
+                who would like to learn how to facilitate their children’s communication. Bilingual children with
+                language difficulties are welcome for bilingual assessment and intervention. Our clinic and research lab
+                is housed within Education building A in Ewha Womans University. For further information and scheduling
+                an appointment, contact her via email
+              </p>
+              {% else %}
+              <p>{{page.name}} is a {{page.group}} student in EWHA CLL.</p>
+              {% endif %}
+            </div>
 
             {% if page.website %}
             <a href="{{page.website}}" class="btn btn-hcid btn-small text-extra-small btn-rounded margin-5px-top"><i
@@ -78,5 +90,3 @@ layout: default
   </div>
 </section>
 <!-- [mod] end information section -->
-
-
