@@ -82,7 +82,7 @@ scholar:
   query: "@*"
 
 sass:
-  sass_dir: _sass
+  sass_dir: /src/_sass
 
 collections:
   news:
