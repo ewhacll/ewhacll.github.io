@@ -57,6 +57,7 @@ nav_list:
   Projects: ['Projects', '/projects']
   Publications: ['Publications', '/publications']
   Courses: ['Courses', '/courses']
+  Recruitment: ['Participation', '/participation']
 
 #========
 # DO NOT USE tabs in config files
