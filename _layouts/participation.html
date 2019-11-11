@@ -25,39 +25,46 @@ layout: default
 <!-- end page title section -->
 
 
-<section class="wow fadeIn">
+<section class="bg-light-gray wow fadeIn padding-five-top padding-five-bottom">
     <div class="container">
         <div class="row equalize md-equalize-auto">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table xs-margin-0px-bottom wow fadeIn">
-                <div class="display-table-cell vertical-align-top">
-
-                    <h6>JOIN OUR RESEARCH & ASSESSMENT!
-                    </h6>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table no-padding no-margin-top no-margin-bottom wow fadeIn">
+                <div class="display-table-cell padding-six-lr md-padding-8px-lr xs-padding-eight-lr vertical-align-top xs-text-center">
+                    <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">JOIN OUR RESEARCH & ASSESSMENT!</h6>
+                    <div class="left_line">
                     <p>We are recruiting participants for ~~. Plase fill out the following form and we'll get in touch
                         within a week. We are recruiting participants for ~~. Plase fill out the following form and
                         we'll get in touch
                         within a week. We are recruiting participants for ~~. Plase fill out the following form and
                         we'll get in touch
-                        within a week.</p>
-                    <p>현재 아래와 같은 프로젝트에서 실험 참가자를 모집하고 있습니다. 다음 폼을 작성하시면, 저희가 1주일 내로 연락드리겠습니다. 현재 아래와 같은 프로젝트에서 실험 참가자를
-                        모집하고 있습니다. 다음 폼을 작성하시면, 저희가 1주일 내로 연락드리겠습니다. 현재 아래와 같은 프로젝트에서 실험 참가자를 모집하고 있습니다. 다음 폼을 작성하시면, 저희가 1주일 내로 연락드리겠습니다.</p>
+                        within a week. We are recruiting participants for ~~. Plase fill out the following form and
+                        we'll get in touch
+                        within a week.</br></br>현재 아래와 같은 프로젝트에서 실험 참가자를 모집하고 있습니다. 다음 폼을 작성하시면, 저희가 1주일 내로 연락드리겠습니다. 현재 아래와 같은 프로젝트에서 실험 참가자를
+                        모집하고 있습니다. 다음 폼을 작성하시면, 저희가 1주일 내로 연락드리겠습니다. 현재 아래와 같은 프로젝트에서 실험 참가자를 모집하고 있습니다. 다음 폼을 작성하시면,
+                        저희가 1주일 내로 연락드리겠습니다. 현재 아래와 같은 프로젝트에서 실험 참가자를 모집하고 있습니다. 다음 폼을 작성하시면,
+                        저희가 1주일 내로 연락드리겠습니다.</p>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 no-padding display-table md-margin-five-top sm-text-center xs-no-margin-top wow fadeIn"
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 no-padding no-margin-top no-margin-bottom display-table sm-text-center wow fadeIn"
                 data-wow-delay="0.4s">
-                <form action="https://formspree.io/FORM_ID_OR_EMAIL" method="POST">
-                    <label>Project:</label>
-                    <select name="Project" required>
+                <div class="display-table-cell padding-seven-lr md-padding-9px-lr xs-padding-nine-lr vertical-align-top">
 
-                        {% for item in site.projects %}
-                        <option value={{item.title}}>{{item.title}}</option>
-                        {% endfor %}
-                    </select>
-                    <label>Your Name:</label>
-                    <input name="name" type="text" required />
-                    <label>Your Email: </label>
-                    <input name="_replyto" type="email" required />
-                    <button>submit</button>
+                    <form action="https://formspree.io/sssefef@gmail.com" method="POST">
+                        <label>Project</label>
+                        <select name="Project" required>
+                            {% for item in site.projects %}
+                            <option value={{item.title}}>{{item.title}}</option>
+                            {% endfor %}
+                        </select>
+                        <label>Your Name</label>
+                        <input name="name" type="text" placeholder="John Appleseed" required />
+                        <label>Your Email</label>
+                        <input name="email" type="email" placeholder="ewhacll@gmail.com" required />
+                        <label>Child's Birthday</label>
+                        <input name="birthday" type="text" placeholder="DD/MM/YYYY" required />
+                        <button>Submit</button>
+                </div>
                 </form>
             </div>
         </div>
@@ -65,16 +72,16 @@ layout: default
 </section>
 
 {% for item in site.projects %}
-<section class="wow fadeIn">
-    <div class="container">
+<section class="wow fadeIn padding-five-top padding-five-bottom">
+    <div class="container margin-one-top margin-one-bottom">
         <div class="row equalize md-equalize-auto">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center display-table xs-margin-0px-bottom wow fadeIn">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center display-table wow fadeIn">
                 <div class="display-table-cell vertical-align-middle">
                     {% assign image_url = item.image | prepend: "/assets/images/projects/" %}
                     <img src="{{image_url | relative_url }}" alt="" class="width-90">
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 no-padding display-table md-margin-five-top sm-text-center xs-no-margin-top wow fadeIn"
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table sm-text-center wow fadeIn"
                 data-wow-delay="0.4s">
                 <div
                     class="display-table-cell vertical-align-middle padding-twelve-lr md-padding-15px-lr xs-text-center xs-padding-five-lr xs-padding-ten-top width-100">
@@ -82,8 +89,6 @@ layout: default
                     <div class="left_line">
                         <p>{{item.description}}</p>
                     </div>
-                    {% assign detail_url = item.slug | prepend: "/projects/" %}
-                    <a href="{{ detail_url | relative_url }}" class="btn btn-small btn-dark-gray">Learn more</a>
                 </div>
             </div>
         </div>
