@@ -20,7 +20,7 @@ email: hcid@hcid.snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Ewha Child-Language Lab.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ewhacll.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dongsunyim.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
