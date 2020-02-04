@@ -23,19 +23,28 @@
                     <!-- start portfolio item -->
                     {% for new in news limit:10 %}
                     <li class="grid-item wow fadeInUp">
-                        <div class="left_line">
+                        <div class="left_line row equalize md-equalize-auto">
+                            <div class="col-md-3">
+                                <div class="display-table-cell vertical-align-middle">
+                                    <img src="{{ '/assets/images/robot.png' | relative_url }}" class="width-100">
+                                </div>
+                            </div>
 
-                            {% assign new_date =  {{new.date | date: '%Y/%m/%d'}} %}
-                            {% assign new_url =  new_date | prepend: '/news/'%}
-                            <div
-                                class="alt-font text-uppercase margin-30px-top margin-5px-bottom text-large text-extra-dark-gray font-weight-600 xs-margin-15px-top">
-                                <a href="{{ new_url | relative_url }}">{{new.title}}</a></div>
-
-                            <div
-                                class="alt-font margin-5px-top margin-5px-bottom text-small text-dark-gray font-weight-400 xs-margin-15px-top">
-                                {{ new.date | date: '%B %d, %Y' }}</div>
-
-                            <p>{{new.detail}}</p>
+                            <div class="col-md-9">
+                                <div class="display-table-cell vertical-align-middle  vertical-align-middle">
+                                    {% assign new_date =  {{new.date | date: '%Y/%m/%d'}} %}
+                                    {% assign new_url =  new_date | prepend: '/news/'%}
+                                    <div
+                                        class="alt-font text-uppercase margin-30px-top margin-5px-bottom text-large text-extra-dark-gray font-weight-600 xs-margin-15px-top">
+                                        <a href="{{ new_url | relative_url }}">{{new.title}}</a></div>
+    
+                                    <div
+                                        class="alt-font margin-5px-top margin-5px-bottom text-small text-dark-gray font-weight-400 xs-margin-15px-top">
+                                        {{ new.date | date: '%B %d, %Y' }}</div>
+    
+                                    <p>{{new.detail}}</p>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     {% endfor %}
