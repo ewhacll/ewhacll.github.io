@@ -67,6 +67,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:year/:month/:day/
+  media:
+    output: true
+    permalink: /:collection/:year/:month/:day/
   people:
     output: true
     permalink: /:collection/:name

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+
+<!-- [mod] start page title section -->
+<section class="sm-margin-50px-top wow fadeIn cover-background background-position-top top-space"
+    style="background-image:url('/assets/images/header/grants.jpg');">
+    <div class="opacity-medium bg-extra-dark-gray"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
+                <div class="display-table-cell vertical-align-middle text-center padding-30px-tb">
+                    <!-- start page title -->
+                    <h1 class="alt-font text-white font-weight-600 no-margin-bottom">GRANTS & AWARDS</h1>
+                    <!-- end page title -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end page title section -->
+
+<div class="padding-six-lr padding-three-top xs-padding-six-top sm-padding-six-top">
+    <a href="{{ '/grants_awards' | relative_url }}" class="btn btn-small btn-cll-green margin-5px-right">Current projects</a>
+    <a href="{{ '/grants_awards/grants' | relative_url }}" class="btn btn-small btn-cll-gray margin-5px-lr">Grants</a>
+    <a href="{{ '/grants_awards/awards' | relative_url }}" class="btn btn-small btn-cll-gray margin-5px-lr">Awards</a>
+    <div class="width-100 height-3px bg-cll-green"></div>
+</div>
+
+{% for item in site.projects %}
+<section class="wow fadeIn no-margin-bottom">
+    <div class="container">
+        <div class="row equalize md-equalize-auto">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center display-table xs-margin-0px-bottom wow fadeIn no-margin">
+                <div class="display-table-cell vertical-align-middle">
+                    {% assign image_url = item.image | prepend: "/assets/images/projects/" %}
+                    <img src="{{image_url | relative_url }}" alt="" class="width-90">
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 sm-padding-three-lr xs-padding-three-lr display-table sm-text-center xs-no-margin-top wow fadeIn"
+                data-wow-delay="0.4s">
+                <div
+                    class="display-table-cell vertical-align-middle padding-three-lr md-padding-5px-lr xs-text-center xs-padding-five-lr xs-padding-ten-top width-100">
+                    <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">{{item.title}}</h6>
+                    <div class="left_line">
+                        <p>{{item.agency}}</br>{{item.duration}}</p>
+                    </div>
+                    {% assign detail_url = item.slug | prepend: "/projects/" %}
+                    <a href="{{ detail_url | relative_url }}" class="btn btn-small btn-dark-gray">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endfor %}
+<!-- [mod] end information section -->
+

@@ -24,13 +24,12 @@
                     {% for new in news limit:10 %}
                     <li class="grid-item wow fadeInUp">
                         <div class="left_line row equalize md-equalize-auto">
-                            <div class="col-md-3">
-                                <div class="display-table-cell vertical-align-middle">
-                                    <img src="{{ '/assets/images/robot.png' | relative_url }}" class="width-100">
+                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center display-table xs-margin-15px-bottom wow fadeIn">
+                                <div class="display-table-cell vertical-align-middle border-bottom-img">
+                                    <img src="{{ '/assets/images/lab_members.jpg' | relative_url }}" alt="" class="width-100">
                                 </div>
                             </div>
-
-                            <div class="col-md-9">
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 text-center display-table xs-margin-30px-bottom wow fadeIn">
                                 <div class="display-table-cell vertical-align-middle  vertical-align-middle">
                                     {% assign new_date =  {{new.date | date: '%Y/%m/%d'}} %}
                                     {% assign new_url =  new_date | prepend: '/news/'%}
