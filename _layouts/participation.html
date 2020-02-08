@@ -15,7 +15,7 @@ layout: default
                     <span class="display-block text-white opacity6 alt-font margin-5px-bottom">JOIN US!</span>
                     <!-- end sub title -->
                     <!-- start page title -->
-                    <h1 class="alt-font text-white font-weight-600 no-margin-bottom">PARTICIPATION</h1>
+                    <h1 class="alt-font text-white font-weight-600 no-margin-bottom">RESEARCH PARTICIPATION</h1>
                     <!-- end page title -->
                 </div>
             </div>
@@ -24,18 +24,18 @@ layout: default
 </section>
 <!-- end page title section -->
 
-<div class="padding-six-lr padding-three-top xs-padding-six-top sm-padding-six-top">
-    <a href="{{ '/participation' | relative_url }}" class="btn btn-small btn-cll-green margin-5px-right">Research participation</a>
-    <a href="{{ '/participation/assessment_intervention' | relative_url }}" class="btn btn-small btn-cll-gray margin-5px-lr">Assessment & Intervention</a>
-    <div class="width-100 height-3px bg-cll-green"></div>
+<div class="padding-six-lr padding-three-top xs-padding-six-top sm-padding-six-top sm-text-center">
+    <a href="{{ '/participation' | relative_url }}" class="btn btn-small btn-cll-green  md-margin-5px-right position-relative">Research participation</a>
+    <a href="{{ '/participation/assessment_intervention' | relative_url }}" class="btn btn-small btn-cll-gray md-margin-5px-lr position-relative sm-margin-one-tb">Assessment & Intervention</a>
+    <div class="width-100 height-3px margin--3px-top bg-cll-green z-index-1111 position-relative sm-display-none"></div>
 </div>
 
-<section class="wow fadeIn padding-three-top padding-seven-bottom xs-padding-twelve-top xs-padding-twelve-bottom">
+<section class="wow fadeIn padding-three-top padding-three-bottom xs-padding-twelve-top xs-padding-twelve-bottom">
     <div class="container">
         <div class="row equalize md-equalize-auto">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table no-padding no-margin-top no-margin-bottom wow fadeIn">
                 <div class="display-table-cell padding-six-lr md-padding-8px-lr xs-padding-eight-lr vertical-align-top xs-text-center">
-                    <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">JOIN OUR RESEARCH & ASSESSMENT!</h6>
+                    <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">PARTICIPATE IN OUR RESEARCH</h6>
                     <div class="left_line">
                     <p>We are recruiting participants for ~~. Plase fill out the following form and we'll get in touch
                         within a week. We are recruiting participants for ~~. Plase fill out the following form and
@@ -75,9 +75,10 @@ layout: default
         </div>
     </div>
 </section>
+<hr>
 
 {% for item in site.projects %}
-<section class="wow fadeIn padding-five-top padding-five-bottom">
+<section class="wow fadeIn padding-four-tb">
     <div class="container margin-one-top margin-one-bottom">
         <div class="row equalize md-equalize-auto">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center display-table wow fadeIn">
@@ -99,5 +100,8 @@ layout: default
         </div>
     </div>
 </section>
+{% if forloop.last != true %}
+<hr>
+{% endif %}
 {% endfor %}
 <!-- [mod] end information section -->

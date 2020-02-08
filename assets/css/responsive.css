@@ -2193,6 +2193,7 @@
     .sm-header-margin-top { margin-top: 80px;}
 
     /* padding */
+    .sm-display-none {display:none !important}
     .sm-no-padding {padding:0 !important}
     .sm-no-padding-lr {padding-left: 0 !important; padding-right: 0 !important}
     .sm-no-padding-tb {padding-top: 0 !important; padding-bottom: 0 !important}

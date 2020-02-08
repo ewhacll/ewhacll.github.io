@@ -5,7 +5,7 @@ layout: default
 
 <!-- [mod] start page title section -->
 <section class="wow fadeIn cover-background background-position-top top-space"
-	 style="background-image:url({{'/assets/images/header/news.jpg' | relative_url }});">
+    style="background-image:url({{'/assets/images/header/news.jpg' | relative_url }});">
     <div class="opacity-medium bg-extra-dark-gray"></div>
     <div class="container">
         <div class="row">
@@ -26,10 +26,22 @@ layout: default
     </div>
 </section>
 
-<section class="wow fadeIn animated animated">
+<section class="wow fadeIn animated padding-three-tb">
     <div class="container">
-        <p>{{page.long_detail}}</p>
+        <div class="left_line row equalize md-equalize-auto">
+            <div
+                class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center display-table sm-margin-30px-bottom wow fadeIn">
+                <div class="display-table-cell vertical-align-middle border-bottom-img">
+                    <img src="{{ '/assets/images/lab_members.jpg' | relative_url }}" alt="" class="width-100">
+                </div>
+            </div>
+            <div
+                class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sm-text-center display-table xs-margin-30px-bottom wow fadeIn">
+                <div class="display-table-cell vertical-align-middle  vertical-align-middle">
+                    <p>{{page.long_detail}}</p>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!-- end page title section -->
-
