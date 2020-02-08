@@ -78,6 +78,9 @@ collections:
     permalink: /:collection/:slug
   publications:
     output: true
+  courses:
+    output: true
+    permalink: /:collection/:slug
 
 assets:
   theme_url: "assets/theme"
