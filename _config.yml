@@ -76,6 +76,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:slug
+  grants:
+    output: true
+    permalink: /:collection/:slug
   publications:
     output: true
   courses:

@@ -32,16 +32,10 @@ layout: default
 <section class="wow fadeIn no-margin-bottom padding-four-tb">
     <div class="container">
         <div class="row equalize md-equalize-auto">
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center display-table xs-margin-0px-bottom wow fadeIn no-margin">
-                <div class="display-table-cell vertical-align-middle">
-                    {% assign image_url = item.image | prepend: "/assets/images/projects/" %}
-                    <img src="https://dummyimage.com/400x250/cfcfcf/000000&text=Image" alt="" class="width-90">
-                </div>
-            </div>
-            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 sm-padding-three-lr xs-padding-three-lr display-table sm-text-center xs-no-margin-top wow fadeIn"
+            <div class="sm-padding-three-lr xs-padding-three-lr display-table sm-text-center xs-no-margin-top wow fadeIn"
                 data-wow-delay="0.4s">
                 <div
-                    class="display-table-cell vertical-align-middle padding-three-lr md-padding-5px-lr xs-text-center xs-padding-five-lr xs-padding-ten-top width-100">
+                    class="display-table-cell vertical-align-middle padding-three-lr md-padding-5px-lr xs-text-center xs-padding-five-lr width-100">
                     <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">{{item.title}}</h6>
                     <div class="left_line">
                         <p>{{item.agency}}</br>{{item.duration}}</p>
