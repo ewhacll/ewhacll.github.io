@@ -36,9 +36,8 @@ layout: default
         <!-- start portfolio item -->
         {% for new in news %}
         <li class="grid-item wow fadeInUp">
-            <div class="left_line row equalize equalize-auto">
-                <div
-                    class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center display-table xs-margin-15px-bottom wow fadeIn">
+            <div class="left_line row equalize md-equalize-auto xs-padding-20px-bottom">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center display-table wow fadeIn">
                     <div class="display-table-cell vertical-align-middle border-bottom-img">
                         {% if new.image %}
                         {% assign image_url = new.image | prepend: "/assets/images/news/" %}
@@ -49,7 +48,7 @@ layout: default
                     </div>
                 </div>
                 <div
-                    class="col-lg-8 col-md-8 col-sm-12 col-xs-12 sm-text-center display-table xs-margin-30px-bottom wow fadeIn">
+                    class="col-lg-8 col-md-8 col-sm-12 col-xs-12 sm-text-center display-table wow fadeIn">
                     <div class="display-table-cell vertical-align-middle  vertical-align-middle">
                         <div
                             class="alt-font text-uppercase margin-30px-top margin-5px-bottom text-large text-extra-dark-gray font-weight-600 xs-margin-15px-top">
