@@ -40,17 +40,20 @@ layout: default
                 <div
                     class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center display-table xs-margin-15px-bottom wow fadeIn">
                     <div class="display-table-cell vertical-align-middle border-bottom-img">
+                        {% if media.image %}
+                        {% assign image_url = media.image | prepend: "/assets/images/media/" %}
+                        <img src="{{image_url}}" alt="" class="width-100">
+                        {% else %}
                         <img src="https://dummyimage.com/600x400/cfcfcf/000000&text=Image" alt="" class="width-100">
+                        {% endif %}
                     </div>
                 </div>
                 <div
                     class="col-lg-8 col-md-8 col-sm-12 col-xs-12 sm-text-center display-table xs-margin-30px-bottom wow fadeIn">
                     <div class="display-table-cell vertical-align-middle  vertical-align-middle">
-                        {% assign new_date =  {{media.date | date: '%Y/%m/%d'}} %}
-                        {% assign new_url =  new_date | prepend: '/media/'%}
                         <div
                             class="alt-font text-uppercase margin-30px-top margin-5px-bottom text-large text-extra-dark-gray font-weight-600 xs-margin-15px-top">
-                            <a href="{{ new_url | relative_url }}">{{media.title}}</a></div>
+                            <a href="{{ media.url | relative_url }}">{{media.title}}</a></div>
 
                         <div
                             class="alt-font margin-5px-top margin-5px-bottom text-small text-dark-gray font-weight-400 xs-margin-15px-top">

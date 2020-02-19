@@ -66,10 +66,10 @@ sass:
 collections:
   news:
     output: true
-    permalink: /:collection/:year/:month/:day/
+    permalink: /:collection/:year/:month/:day/:title
   media:
     output: true
-    permalink: /:collection/:year/:month/:day/
+    permalink: /:collection/:year/:month/:day/:title
   people:
     output: true
     permalink: /:collection/:name
@@ -77,6 +77,9 @@ collections:
     output: true
     permalink: /:collection/:slug
   grants:
+    output: true
+    permalink: /:collection/:slug
+  awards:
     output: true
     permalink: /:collection/:slug
   publications:
