@@ -73,9 +73,6 @@ collections:
   people:
     output: true
     permalink: /:collection/:name
-  projects:
-    output: true
-    permalink: /:collection/:slug
   grants:
     output: true
     permalink: /:collection/:slug
