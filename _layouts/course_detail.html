@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+
+<!-- [mod] start page title section -->
+<section class="sm-margin-50px-top wow fadeIn cover-background background-position-top top-space"
+    style="background-image:url({{'/assets/images/header/news.jpg' | relative_url }});">
+    <div class="opacity-medium bg-extra-dark-gray"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
+                <div class="display-table-cell vertical-align-middle text-center padding-30px-tb">
+                    <!-- start sub title -->
+                    <!-- <span class="display-block text-white opacity6 alt-font margin-5px-bottom">WHAT WE DO</span> -->
+                    <!-- end sub title -->
+                    <!-- start page title -->
+                    <h1 class="alt-font text-white font-weight-600 margin-10px-bottom">{{page.title}}</h1>
+                    <h6 class="alt-font text-white font-weight-300 margin-10px-top">{{page.date | date: '%B %d, %Y' }}
+                    </h6>
+                    <!-- end page title -->
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+
+<section class="wow fadeIn animated padding-three-tb">
+    <div class="container">
+        <div class="left_line row equalize md-equalize-auto">
+            <div
+                class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center display-table sm-margin-30px-bottom wow fadeIn">
+                <div class="display-table-cell vertical-align-middle border-bottom-img">
+                    {% if page.image %}
+                    {% assign image_url = page.image | prepend: "/assets/images/news/" %}
+                    <img src="{{image_url}}" alt="" class="width-100">
+                    {% else %}
+                    <img src="https://dummyimage.com/600x400/cfcfcf/000000&text=Image" alt="" class="width-100">
+                    {% endif %}
+                </div>
+            </div>
+            <div
+                class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sm-text-center display-table xs-margin-30px-bottom wow fadeIn">
+                <div class="display-table-cell vertical-align-middle  vertical-align-middle">
+                    <p>{{page.long_detail | newline_to_br}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end page title section -->

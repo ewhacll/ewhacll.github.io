@@ -5,7 +5,7 @@ layout: default
 {% if page.image %}
 {% assign image_url = page.image | prepend: "/assets/images/media/" %}
 {% else %}
-{% assign image_url = {{"/assets/images/header/media.jpg" | relative_url}} %}
+{% assign image_url = "/assets/images/header/media.jpg" | relative_url %}
 {% endif %}
 
 <!-- [mod] start page title section -->
