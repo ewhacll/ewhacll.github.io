@@ -73,10 +73,10 @@ layout: default
                 class="col-md-3 col-sm-6 col-xs-6 margin-50px-bottom wow fadeIn last-paragraph-no-margin xs-margin-30px-bottom xs-text-center">
                 <div class="blog-post blog-post-style0">
                     <div class="blog-post-images overflow-hidden margin-25px-bottom sm-margin-20px-bottom">
-                        {% if member.permalink %}
-                        <a href="{{member.permalink}}">
+                        {% if member.slug %}
+                        <a href="{{member.slug}}">
                             {% else %}
-                            <a href="/people/{{member.title}}">
+                            <a href="/people/{{member.name | remove: ' ' }}">
                                 {% endif %}
                                 {% if member.image %}
                                 {% assign image_url = member.image | prepend: "/assets/images/people/"%}
@@ -88,12 +88,12 @@ layout: default
                     </div>
                     <div class="post-details">
 
-                        {% if member.permalink %}
-                        <a href="{{member.permalink}}"
+                        {% if member.slug %}
+                        <a href="{{member.slug}}"
                             class="post-title text-medium text-extra-dark-gray display-block width-90 sm-width-100">{{member.name}}</a>
                         {% else %}
-                        {% assign member_url = member.title | prepend: "/people/" %}
-                        <a href="{{member_url | relative_url}}"
+                        {% assign member_url = member.name | prepend: "/people/" %}
+                        <a href="/people/{{member.name | remove: ' ' }}"
                             class="post-title text-medium text-extra-dark-gray display-block width-90 sm-width-100">{{member.name}}</a>
                         {% endif %}
                         <div
@@ -127,11 +127,10 @@ layout: default
                 class="col-md-3 col-sm-6 col-xs-6 margin-50px-bottom wow fadeIn last-paragraph-no-margin xs-margin-30px-bottom xs-text-center">
                 <div class="blog-post blog-post-style0">
                     <div class="blog-post-images overflow-hidden margin-25px-bottom sm-margin-20px-bottom">
-                        {% if member.permalink %}
-                        <a href="{{member.permalink | relative_url}}">
+                        {% if member.slug %}
+                        <a href="{{member.slug}}">
                             {% else %}
-                            {% assign member_url = member.title | prepend: "/people/" %}
-                            <a href="{{member_url | relative_url}}">
+                            <a href="/people/{{member.name | remove: ' ' }}">
                                 {% endif %}
                                 {% if member.image %}
                                 {% assign image_url = member.image | prepend: "/assets/images/people/" %}
@@ -142,8 +141,8 @@ layout: default
                             </a>
                     </div>
                     <div class="post-details">
-                        {% if member.permalink %}
-                        <a href="{{member.permalink | relative_url}}"
+                        {% if member.slug %}
+                        <a href="{{member.slug}}"
                             class="post-title text-medium text-extra-dark-gray display-block width-90 sm-width-100">{{member.name}}</a>
                         {% else %}
                         {% assign member_url = member.title | prepend: "/people/" %}

@@ -72,7 +72,7 @@ collections:
     permalink: /:collection/:year/:month/:day/:title
   people:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:slug
   grants:
     output: true
     permalink: /:collection/:slug
