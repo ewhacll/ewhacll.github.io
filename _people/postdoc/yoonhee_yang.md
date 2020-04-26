@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: phd
+group: postdoc
 name: Yoonhee Yang
 slug: yoonhee
 image: yoonhee.jpg

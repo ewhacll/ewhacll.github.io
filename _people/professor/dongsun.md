@@ -5,5 +5,5 @@ name: Dongsun Yim
 group: professor
 permalink: /dongsun
 interests: [language learning]
-image: dongsun.png
+image: dongsun.jpg
 ---
