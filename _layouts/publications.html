@@ -11,11 +11,7 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
                 <div class="display-table-cell vertical-align-middle text-center padding-30px-tb">
-                    <!-- start sub title -->
-                    <!-- end sub title -->
-                    <!-- start page title -->
                     <h1 class="alt-font text-white font-weight-600 no-margin-bottom">PUBLICATIONS</h1>
-                    <!-- end page title -->
                 </div>
             </div>
         </div>
@@ -31,7 +27,12 @@ layout: default
                     <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">{{year.year}}</h6>
                     {% for paper in year.list %}
                     <div class="left_line">
-                        <p>{{paper.title}}</p>
+                        <p>{{paper.title}}
+                            {% if paper.pdf %}
+                            {% assign pdf = paper.pdf | prepend: "/assets/pdf/" %}
+                        <a style="margin-left: 5px; font-weight: 600; color: #1F6D19;" href="{{ pdf | relative_url }}">[PDF]</a>
+                        {% endif %}
+                        </p>
                     </div>
                     {% endfor %}
                 </div>
