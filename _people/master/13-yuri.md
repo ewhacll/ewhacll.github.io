@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: master
+group: Research Assistant
 name: Yuri Jo
 slug: yuri
 image: yuri.jpg
