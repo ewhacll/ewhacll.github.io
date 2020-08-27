@@ -7,7 +7,7 @@ detail: "Dr. Yim did a phone interview on the TBS eFM radio show 'Real Mom Real 
 She answered critical questions regarding bilingual language development including transfer effect, language use, and language delay."
 long_detail: "Professor Yim and her research team conducted research which was funded by National Health Insurance Service. The title of research work was 'Research Study on Health Service Needs using Big Data Analysis to Improve Multicultural Family's Life Quality' and her remarkable research work have been mentioned in the Munhwa Ilbo newspaper article published on December 27th, 2018. The research found that language assessment and language support were the most needed service in international marriage women in multicultural families.
 
-Summary of talk
+<strong>Summary of talk</strong>
 
 
 > Home language choice
