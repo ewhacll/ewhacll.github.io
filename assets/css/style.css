@@ -3835,6 +3835,7 @@ aside .latest-post li figure {width: 75px;}
 .text-hcid {color:#206e19}
 
 .left_line p {
+    font-size: 15px;
     border-left: thick solid #41ad37;
     border-width: 3px;
     padding-left: 10px;
