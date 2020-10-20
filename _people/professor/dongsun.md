@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-title: Dongsun
+title: Dongsun Yim
 name: Dongsun Yim
 group: professor
 permalink: /dongsun
