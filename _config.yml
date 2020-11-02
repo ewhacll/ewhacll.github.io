@@ -57,6 +57,7 @@ nav_list:
   People: ["People", "/people"]
   Projects: ["Grants & Awards", "/grants_awards"]
   Publications: ["Publications", "/publications"]
+  Presentations: ["Presentations", "/presentations"]
 #  Courses: ["Courses", "/courses"]
   Recruitment: ["Participation", "/participation"]
 
@@ -80,6 +81,8 @@ collections:
     output: true
     permalink: /:collection/:slug
   publications:
+    output: true
+  presentations:
     output: true
   courses:
     output: true
