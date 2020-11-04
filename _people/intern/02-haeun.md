@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: intern
 name: Haeun (Hanna) Lee
 slug: haeun
 image: haeun.jpg
