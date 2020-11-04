@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% assign presentations = site.data.presentation %}
+
+<section class="sm-margin-50px-top wow fadeIn cover-background background-position-top top-space"
+    style="background-image:url('/assets/images/header/presentations.jpg');">
+    <div class="opacity-medium bg-extra-dark-gray"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
+                <div class="display-table-cell vertical-align-middle text-center padding-30px-tb">
+                    <h1 class="alt-font text-white font-weight-600 no-margin-bottom">PRESENTATIONS</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% for year in presentations.talks %}
+<section class="wow fadeIn no-margin-bottom">
+    <div class="container">
+        <div class="row equalize md-equalize-auto">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding display-table md-margin-five-top sm-text-center xs-no-margin-top wow fadeIn">
+                <div class="display-table-cell vertical-align-middle padding-twelve-lr md-padding-15px-lr xs-text-center xs-padding-five-lr xs-padding-ten-top width-100">
+                    <h6 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">{{year.year}}</h6>
+                    {% for talk in year.list %}
+                    <div class="left_line">
+                        <p>{{talk.title}}
+                            {% if talk.pdf %}
+                            {% assign pdf = talk.pdf | prepend: "/assets/pdf/" %}
+                        <a style="margin-left: 5px; font-weight: 600; color: #1F6D19;" href="{{ pdf | relative_url }}">[PDF]</a>
+                        {% endif %}
+                        </p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endfor %}
