@@ -84,6 +84,8 @@ collections:
     output: true
   presentations:
     output: true
+  professor:
+    output: true
   courses:
     output: true
     permalink: /:collection/:slug

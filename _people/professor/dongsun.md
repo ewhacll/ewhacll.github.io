@@ -1,5 +1,5 @@
 ---
-layout: people_detail
+layout: people_professor
 title: Dongsun Yim
 name: Dongsun Yim
 group: professor

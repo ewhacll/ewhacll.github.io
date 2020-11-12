@@ -1,0 +1,17 @@
+lists:
+    - title: Research
+      lines:
+        - line: "line1"
+        - line: "line2"
+    - title: Career
+      lines:
+        - line: "line1"
+        - line: "line2"
+    - title: Teaching experience
+      lines:
+        - line: "line1"
+        - line: "line2"
+    - title: Clinical experience
+      lines:
+        - line: "line1"
+        - line: "line2"
