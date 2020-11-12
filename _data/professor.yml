@@ -38,7 +38,6 @@ lists:
     - title: Teaching experience
       list:
       lines:
-      Graduate-level Courses
       - year: 2010 to present
         - line: "Communication in culturally and linguistically diverse children"
         - line: "Seminars in articulation and phonology disorders (Spring only)"
@@ -54,7 +53,6 @@ lists:
         - line: "Clinical observation"
         - line: "Clinical practicum"
         - line: "Diagnostic practicum"
-      Undergraduate-level Courses
       - year: 2011 to present  
         - line: "'2017 to present'  K-MOOC: Children's outstanding language learning abilities - approach from bilinguals"
         - line: "'2013 to 2016'     Diversity culture and language(EGO)"
