@@ -23,7 +23,6 @@ lists:
         - line: "1998-2004                Student Clinician: Center Hospital University , Grenoble , France , 1998                Hans Christian Anderson Open School , MN, 2003                Julia M. Davis Speech-Language Hearing Center , MN , 2003                 Anoka Evaluation team, MN, 2004"
     - title: Teaching experience
       lines:
-      - year: 2010 to present
         - line: "Communication in culturally and linguistically diverse children"
         - line: "Seminars in articulation and phonology disorders (Spring only)"
         - line: "Seminars in language development (Fall only)"
@@ -38,11 +37,9 @@ lists:
         - line: "Clinical observation"
         - line: "Clinical practicum"
         - line: "Diagnostic practicum"
-      - year: 2011 to present  
         - line: "'2017 to present'  K-MOOC: Children's outstanding language learning abilities - approach from bilinguals"
         - line: "'2013 to 2016'     Diversity culture and language(EGO)"
         - line: "'2011 to 2016'     Language development and Usage(EGO)"   
-       - year: 1998 to 2010  
         - line: "2010  Assistant professor,  Language Disorders in Preschool Children, Northwestern University"
         - line: "2009  Assistant professor, Doctoral Seminar: Children with Primary Language Impairment, Northwestern University"
         - line: "2009  Assistant professor, Language development and Usage, Northwestern University"
