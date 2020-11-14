@@ -13,30 +13,15 @@ lists:
         - line: "FB: Cognitive ability and Language skills in boy and girls"
     - title: Career
       lines:
-        - line: "2020-Present
-                Prefessor"
-        - line: "2010-2020
-                Associate professor, Department of communication disorders, Ewha womans university
-                PI: Child Language Lab (CLL)"
-        - line: "2007-2010
-                Assistant professor, Department of Communication Sciences and Disorders, Northwestern University 
-                PI: Child Language Lab"
-        - line: "2007-2008
-                Clinical Fellowship Year, Westbrook elementary school, Lion's Park school
-                Certification of Certified Competency - Speech Language Pathologist, American Speech-Language-Hearing Association"
-        - line: "2006-2007
-                Researcher, Department of Psychology, Stanford University."
-        - line: "1999-2000
-                Research Assistant, Department of Speech, Language, and Hearing Sciences, University of Minnesota."
-        - line: "2001-2006
-                Speech Pathologist, SHIN's Speech and Language Clinic."   
-        - line: "1998-2004
-                Student Clinician: Center Hospital University , Grenoble , France , 1998
-                Hans Christian Anderson Open School , MN, 2003
-                Julia M. Davis Speech-Language Hearing Center , MN , 2003
-                Anoka Evaluation team, MN, 2004"
+        - line: "2020-Present                Prefessor"
+        - line: "2010-2020                Associate professor, Department of communication disorders, Ewha womans university                PI: Child Language Lab (CLL)"
+        - line: "2007-2010                Assistant professor, Department of Communication Sciences and Disorders, Northwestern University                 PI: Child Language Lab"
+        - line: "2007-2008                Clinical Fellowship Year, Westbrook elementary school, Lion's Park school                Certification of Certified Competency - Speech Language Pathologist, American Speech-Language-Hearing Association"
+        - line: "2006-2007                Researcher, Department of Psychology, Stanford University."
+        - line: "1999-2000                Research Assistant, Department of Speech, Language, and Hearing Sciences, University of Minnesota."
+        - line: "2001-2006                Speech Pathologist, SHIN's Speech and Language Clinic."   
+        - line: "1998-2004                Student Clinician: Center Hospital University , Grenoble , France , 1998                Hans Christian Anderson Open School , MN, 2003                Julia M. Davis Speech-Language Hearing Center , MN , 2003                 Anoka Evaluation team, MN, 2004"
     - title: Teaching experience
-      list:
       lines:
       - year: 2010 to present
         - line: "Communication in culturally and linguistically diverse children"
@@ -72,10 +57,8 @@ lists:
         - line: "1998  Instructor, Nature Study for French Children, Ambassade de France Ecole Francaise, Seoul, Korea"
     - title: Clinical experience
       lines:
-        - line: "2012 ~ present
-                Clinical Supervisor, Ewha Speech-Language Clinic, Dept of Communication Disorders, Ewha Womans University"
-        - line: "2007 Clinical Fellowship Year – Main population: children with language impairment, children with phonological impairment and children with reading impairment, Westbrook Elementary School, Lion’s Park School, IL
-                Graduate Student Clinician - Main population: monolingual and bilingual children with language impairment, children with autism, children and adults with dysfluency"
+        - line: "2012 ~ present                Clinical Supervisor, Ewha Speech-Language Clinic, Dept of Communication Disorders, Ewha Womans University"
+        - line: "2007 Clinical Fellowship Year – Main population: children with language impairment, children with phonological impairment and children with reading impairment, Westbrook Elementary School, Lion’s Park School, IL                Graduate Student Clinician - Main population: monolingual and bilingual children with language impairment, children with autism, children and adults with dysfluency"
         - line: "2004 Anoka Evaluation team, MN"
         - line: "2003 Julia M. Davis Speech-Language Hearing Center, MN"
         - line: "2003 Hans Christian Anderson Open School, MN"
