@@ -2,7 +2,7 @@
 layout: media_detail
 title: "Dr. Yim's a subsidiary company; I Say Lab"
 date: 2020-12-30 20:00:00 +0900
-image: "isaylab.jpg"
+image: isaylab.jpg
 detail: "rofessor Yim established a subsidiary company (주식회사 임동선아이세이언어연구소, I Say Lab) on November 25th, 2020."
 long_detail: "Professor Yim established a subsidiary company (주식회사 임동선아이세이언어연구소, I Say Lab) on November 25th, 2020. 'I Say Lab' is a social venture based on patented child language assessment and treatment education service technology. The technology transfer agreement ceremony with Ewha technology holdings was held on December 10th, 2020.
 
