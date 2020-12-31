@@ -52,6 +52,7 @@ exclude: ["node_modules"]
 # TODO: Update the code with secondary menu
 nav_list:
   Home: ["Home", "/"]
+  Dongsun: ["Dongsun Yim", "/dongsun"]
   News: ["News", "/news"]
   Media: ["Media", "/media"]
   People: ["People", "/people"]
