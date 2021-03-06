@@ -8,11 +8,11 @@ long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show,
 <br>
 <b>Summary of talk</b><br>
 <br>
-<b>So many mothers debate on sending their children to English kindergartens about a year prior to elementary school (so around age 6). Why is this so?</b>
+<b>So many mothers debate on sending their children to English kindergartens about a year prior to elementary school (so around age 6). Why is this so?</b><br>
 - Infants and toddlers’ brain is so flexible. So it is good for children to experience a good amount of input early on and it also applies to language experience as well. <br>
 - Therefore, if children are exposed to another language, it will enhance children’s not only their language skills but also their brain activity. So this is the reason why parents want to send their children to English immersion schools early on.<br>
 <br>
-<p><b>What is it about English kindergartens / private institutions that attract so many mothers?</b><br>
+<b>What is it about English kindergartens / private institutions that attract so many mothers?</b><br>
 - The first advantage is pronunciation (in the research field, called articulation) and auditory hearing skills to perceive a sound. <br>
 - These two features are established early on in life so exposing to another language early enough will shape the ability to pronounce a sound like a native speaker. <br>
 - However, pronunciation is not everything when you learn the language.<br>
@@ -27,7 +27,7 @@ However, there are lots of different ways to maintain the language skills such a
 <br>
 <b>How do you see “English academy syndrome’ happening just in Korea?</b><br>
 - In other countries, they also have bilingual immersion schools for bilingual education which is a good thing. If a child is exposed to a rich language environment, the child will have a richer experience in many different perspectives such as cognitive, emotional, and cultural. <br>
-- Also, it will enhance children’s brain development. The way we convey the teaching method to our kids will matter.</p><br>
+- Also, it will enhance children’s brain development. The way we convey the teaching method to our kids will matter.<br>
 <br>
 <b>Parents in other countries also start English early for their children but the stress levels and entrance procedures aren’t as complicated. How do you see stressful situations affect children when they are under lots of competition?</b><br>
 - Children cannot learn efficiently when they are under stress because their brain will not activate well enough. Even though they will eventually learn something, it will not be an optimal situation where their brain is well activated and motivated.<br>
