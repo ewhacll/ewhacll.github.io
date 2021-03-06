@@ -4,7 +4,7 @@ title: "Dr. Yim's radio appearance: Real Mom Real Talk(TBS) 210228"
 date: 2021-02-28
 image: "2021-realmom.jpg"
 detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk'again and answered several questions for the new semester."
-long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk'again and answered several questions for the new semester."<br>
+long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk'again and answered several questions for the new semester.<br>
 <br>
 <br>
 <br>
