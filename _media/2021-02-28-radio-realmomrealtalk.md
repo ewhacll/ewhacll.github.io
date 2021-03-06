@@ -5,120 +5,52 @@ date: 2021-02-28
 image: "2021-realmom.jpg"
 detail: "Dr. Yim appeared on the radio show again to answer some common questions that mothers may have about bilingual child's language development."
 long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk'again and answered several questions for the new semester."
-long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk' again and answered several questions for the new semester." 
+long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk' again and answered several questions for the new semester. 
 
-    - title: <b>Summary of talk</b>
-      lines:
-        - line: "<b>So many mothers debate on sending their children to English kindergartens about a year prior to elementary school (so around age 6). Why is this so?</b>"
-        - line: "&nbsp; Infants and toddlers’ brain is so flexible. So it is good for children to experience a good amount of input early on and it also applies to language experience as well. Therefore, if children are exposed to another language, it will enhance children’s not only their language skills but also their brain activity. So this is the reason why parents want to send their children to English immersion schools early on."
-        - line: "<b>What is it about English kindergartens / private institutions that attract so many mothers?</b>" 
+<b>Summary of talk</b>
 
-
-2. Input contexts and opportunities
-
-- first language exposed by society and family vs. only family (mother)
+<b>So many mothers debate on sending their children to English kindergartens about a year prior to elementary school (so around age 6). Why is this so?</b>
+- Infants and toddlers’ brain is so flexible. So it is good for children to experience a good amount of input early on and it also applies to language experience as well. 
+- Therefore, if children are exposed to another language, it will enhance children’s not only their language skills but also their brain activity. So this is the reason why parents want to send their children to English immersion schools early on.
 
 
-3. Social status of the language
+<b>What is it about English kindergartens / private institutions that attract so many mothers?</b>
+- The first advantage is pronunciation (in the research field, called articulation) and auditory hearing skills to perceive a sound. 
+- These two features are established early on in life so exposing to another language early enough will shape the ability to pronounce a sound like a native speaker. 
+- However, pronunciation is not everything when you learn the language.
+- The second advantage is the natural motivation for kids. 
+- When children acquire language implicitly with natural surroundings with high motivation, they feel happy and fun, also they will efficiently learn English. 
+- However, mothers need to take into consideration the decision that because children will learn only at their developmental level.
 
-- social status of the language: power that language holds in the society
+<b>When a kid who is in an English kindergarten enters a Korean regular elementary school, does the language deteriorate? If so, how the kid retain it?</b>
+- Yes.
+- If kids don’t use the language, they will forget because the language is needs-based. 
+However, there are lots of different ways to maintain the language skills such as reading books, watching TV, English cartoons, and listening to a radio so they can gradually expose English in a natural way.  
 
-- children naturally choose to speak the language with higher social status
+<b>How do you see “English academy syndrome’ happening just in Korea?</b>
+- In other countries, they also have bilingual immersion schools for bilingual education which is a good thing. If a child is exposed to a rich language environment, the child will have a richer experience in many different perspectives such as cognitive, emotional, and cultural. 
+- Also, it will enhance children’s brain development. The way we convey the teaching method to our kids will matter.
 
+<b>Parents in other countries also start English early for their children but the stress levels and entrance procedures aren’t as complicated. How do you see stressful situations affect children when they are under lots of competition?</b>
+- Children cannot learn efficiently when they are under stress because their brain will not activate well enough. Even though they will eventually learn something, it will not be an optimal situation where their brain is well activated and motivated
 
-4. L1 and L2 typology
+<b>For mothers who decide to send their kids to regular kindergartens, how can they start introducing English at home? (Even if the mothers aren’t native English speakers?)</b>
+- In the first case, for both parents who speak one language at home, parents should give the best linguistic input which is their mother tongue to their child. However, once the child can understand and speak around two to three-word level, then parents may let them watch English TV, or read listen to English, books, or materials. 
+- Children’s learning mechanism is so complicated, so they need a human being to interact with others. They learn language because they have communication intent. Once they start to build a foundation to communicate with others in a language, they have the capability to accept another linguistic input which is the second language 
+- In another case, there are families whose two languages are needed at home such as simultaneous bilingual children case, children will be exposed to two different languages at the same time. It means children don’t need to build first and add another on the top.
 
--  depends on how two languages are similar (cognate) or different, language learning can be easier or more difficult
+<b>When bilingual children speak two different languages, they mix two languages in one sentence. How can parents help their kids to speak full sentences in one language?</b>
+- You don’t have to do that. 
+- A long time ago, mixing two languages, which is called code-switching was considered bad. However, research has found that code-switching is pragmatic skills which means children do mix and match when they know their communicative partner does understand both languages.
 
+<b>From your perspective and experience, when is the right time for young kids to start learning a new language?</b>
+- This is a great question where I have no answer for. 
+- It is based on their language skills and development. There is no perfect level of language.
 
-5. Language purpose
+<b>How do you think multicultural families can handle their communication problems?</b>
+- The social language which is a school language will overcome bilingual children’s first language. 
+- In research, children who do maintain their first language (mother tongue) have way better frontal lobe activation. Also, this is helpful not only for emotional but also academic.
 
--  language usage will develop differently depends on the language purpose  
-
-- ex) academic vs. daily life language usage
-
-
-<p><b>One internal factor</b></p>
-1. System integrity (brain activation and underlying learning mechanism) and preferences
-
-- They both influence language development.
-
-ex) Some children like to learn the language, and some don’t. Some children don’t care about making mistakes.
- 
-
-
-
-<p><em><b>Can bilingual children be perfectly balanced in both languages?</b></em></p>
-- No!
-
-- Language serves the purpose of communication.
-
-- Every setting of communication is different.
-
-- Different amount of language is exposed and used in different settings.
- 
-
-
-
-<p><em><b>Can we be fluent (proficient) in both languages?</b></em></p>
-- Yes!
-
-- But you cannot be perfectly balanced in both languages in every communication setting.
- 
-
-
-
-<p><em><b>Red flags for bilingual children parents to look out for their children</b></em></p>
-- Children with health, developmental, and educational factors.
-
-- Children with other speech and language-related issues; voice, chewing, hearing, motor skills disorders.
-
-- Getting an assessment is critical!
-
-- You don’t want to miss the golden time for the evaluation.
-
-- Researchers have found that parents are very accurate in evaluating their children.
-
-- If you have any family concerns, go for instinct and follow up with the evaluation.
- 
-
-
-
-<p><em><b>How can parents support bilingual children?</b></em></p>
-- Interact with the child by using the mother tongue
-
-- Follow the child’s lead
-
-- Be salient and specific when speaking with children
-
-- Have fun
-
-- Stay tuned
-
-
-
-
-<p><em><b>If the parents are proficient in both languages, which one they must use?</b></em></p>
-- Based on the understanding that their children also know both languages, parents can speak both languages to their children but importantly, stick to your mother tongue!
- 
-
-
-
-<p><em><b>Research regarding Language and moms</b></em></p>
-- 'Health Service Needs using Big Data Analysis to Improve Multicultural Family Life's Service'
-Results show Mothers from multicultural family are having a challenging time due to the language usage between mother and child because family force the mother to learn and speak Korean to their children.
-
-- Due to this issue, the child has a higher probability of having their language development delayed.
-
-- Mothers think it is their fault due to communication difficulties.
-
-- We cannot make them monolingual by forcing them to speak the social language.
-
-- We need to respect their language and culture.
-
-- Language coveys so many things: share feelings, beliefs as children get older.
-
-- Bilingualism is not a choice but just a natural description of their life.
-"
+For more details, please refer to the website (http://www.podbbang.com/ch/1768658)"
 ---
 
