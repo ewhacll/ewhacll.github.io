@@ -36,6 +36,7 @@ However, there are lots of different ways to maintain the language skills such a
 - In the first case, for both parents who speak one language at home, parents should give the best linguistic input which is their mother tongue to their child. However, once the child can understand and speak around two to three-word level, then parents may let them watch English TV, or read listen to English, books, or materials.<br> 
 - Children’s learning mechanism is so complicated, so they need a human being to interact with others. They learn language because they have communication intent. Once they start to build a foundation to communicate with others in a language, they have the capability to accept another linguistic input which is the second language<br> 
 - In another case, there are families whose two languages are needed at home such as simultaneous bilingual children case, children will be exposed to two different languages at the same time. It means children don’t need to build first and add another on the top.<br>
+<br>
 <b>When bilingual children speak two different languages, they mix two languages in one sentence. How can parents help their kids to speak full sentences in one language?</b>
 - You don’t have to do that. <br>
 - A long time ago, mixing two languages, which is called code-switching was considered bad. However, research has found that code-switching is pragmatic skills which means children do mix and match when they know their communicative partner does understand both languages.<br>
