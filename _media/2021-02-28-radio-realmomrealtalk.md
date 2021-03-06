@@ -1,9 +1,10 @@
 ---
 layout: media_detail
 title: "Dr. Yim's radio appearance: Real Mom Real Talk(TBS)"
-date: 2021-03-01
-image: "2020-yim-radio.jpg"
-detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk'again and answered several questions for the new semester."
+date: 2021-02-28
+image: "2021-realmom.jpg"
+detail: "Dr. Yim appeared on the radio show again to answer some common questions that mothers may have about bilingual child's language development."
+long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk'again and answered several questions for the new semester."
 long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show, tbs eFM 'Real Mom Real Talk' again and answered several questions for the new semester." 
 
     - title: <b>Summary of talk</b>
@@ -11,22 +12,6 @@ long_detail: "Dr. Yim, also the CEO of I SAY LAB, was invited on the radio show,
         - line: "<b>So many mothers debate on sending their children to English kindergartens about a year prior to elementary school (so around age 6). Why is this so?</b>"
         - line: "&nbsp; Infants and toddlers’ brain is so flexible. So it is good for children to experience a good amount of input early on and it also applies to language experience as well. Therefore, if children are exposed to another language, it will enhance children’s not only their language skills but also their brain activity. So this is the reason why parents want to send their children to English immersion schools early on."
         - line: "<b>What is it about English kindergartens / private institutions that attract so many mothers?</b>" 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-        - line: 
-
-
-
-
-
 
 
 2. Input contexts and opportunities
