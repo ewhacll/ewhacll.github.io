@@ -24,7 +24,7 @@ lists:
         - line: "2006-2007</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Researcher, Department of Psychology, Stanford University."
         - line: "2001-2005</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Department of Speech, Language, and Hearing Sciences, University of Minnesota."
         - line: "1999-2001</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speech Pathologist, SHIN's Speech and Language Clinic."   
-        - line: "1998-2004</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonsei Medical School, Seoul, Korea, 2000</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Clinician: Center Hospital University , Grenoble , France , 1998</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hans Christian Anderson Open School , MN, 2003</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Julia M. Davis Speech-Language Hearing Center , MN , 2003</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anoka Evaluation team, MN, 2004"
+        - line: "</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonsei Medical School, Seoul, Korea, 2000</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Clinician: Center Hospital University , Grenoble , France , 1998</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hans Christian Anderson Open School , MN, 2003</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Julia M. Davis Speech-Language Hearing Center , MN , 2003</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anoka Evaluation team, MN, 2004"
     - title: Teaching experience
       lines:
         - line: "<b>Graduate-level Courses</b>"
