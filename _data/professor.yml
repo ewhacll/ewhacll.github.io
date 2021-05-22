@@ -1,6 +1,9 @@
 lists:
     - title: Research
       lines:
+        - line: "<b>WORDBANK</b>: http://wordbank.stanford.edu (contributes on Korean version)"
+        - line: "<b>Parent Coaching</b>: Making a difference on a child's language development"
+        - line: "<b>Dialogic Book Reading to improve vocabulary skills</b>: underlying profiles & intensity"
         - line: "<b>WMT</b>: Working Memory Training"
         - line: "<b>SLCI</b>: Statistical Learning in Children with Cochlear Implants"
         - line: "<b>LCCS</b>: Life immersive Communication Care Service"
