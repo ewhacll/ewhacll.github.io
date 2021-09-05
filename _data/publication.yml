@@ -1,6 +1,7 @@
 papers:
     - year: 2021
       list:
+        - title: "Park, W., Revés, P., Esteves, A., Kerridge, J. M., Yim, D., & Oh, U. (2021). Dot-to-Dot: Pre-reading Assessment of Literacy Risk via a Visual-Motor Mechanism on Touchscreen Devices. In IFIP Conference on Human-Computer Interaction (pp. 192-212). Springer, Cham."
         - title: "Yim, D., Kim, S., Chung, H., Chae, M., & Oh, S. (in press). The effects on receptive and expressive word learning in preschoolers with and without language delay depending on adults' reading strategies. Journal of Speech-Language & Hearing Disorders."
         - title: "Kim, S., Yim, D., Han, J. (2021). Relationship between Executive Function and Narrative Skills in Preschool Children. The Korean Journal of Developmental Psychology, 34(2), 61-86."
           pdf: "KJC(2021).pdf"
