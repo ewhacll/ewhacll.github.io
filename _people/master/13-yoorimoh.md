@@ -2,7 +2,7 @@
 layout: people_detail
 group: Research Assistant
 name: Yoorim Oh
-slug: Yoorimoh
+slug: yoorimoh
 image: "yoorimoh.jpg"
 email: ddang330@naver.com
 interests: [Intervention, Assessment]
