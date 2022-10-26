@@ -1,11 +1,13 @@
-papers:
+ papers:
     - year: 2022
       list:
         - title: "Oh, S., & Yim, D. (in press). Vocabulary acquisition of Down Syndrome and typically developing children according to reading strategies. Journal of Speech-Language & Hearing Disorders."
         - title: "Baek, S. J, & Yim, D(2022). An eye-tracking study on reading comprehension and reading processing in children with reading difficulties according to story type and processing load. Communication Sciences & Disorders, 27(3),518-540."
+          pdf: "csd-27-3-518.pdf"
         - title: "Kang, D., & Yim, D. (2022). The influence of Internal and External Factors on Vocabulary Development in Korean Monolingual and English-Korean Bilingual Children. Communication Sciences & Disorders,27(2),281-296."
           pdf: "csd272.pdf"
         - title: "Yang, Y., Park, W.J., Baek, S.J., Kang, M.J., & Yim, D. (2022). Exploring Real-Time Word Learning Skills and Its Related Factors in Preschool Children: An Eye-Tracking Study. Communication Sciences & Disorders, 27(3),468-482."
+          pdf: "csd-27-3-468.pdf"
         - title: "Yim, D., Chung, H.E., Han, J.Y., Baek, S. J., & Lim, N (2022). A Comparative Study of Korean-English Bilingual Children's Receptive Vocabulary According to Scoring Methods. Journal of Speech-Language & Hearing Disorders,31(2),99-106."
           pdf: "jslhd31.pdf"
         - title: "Yim, D., Kim, S., Song, H., & Lee, H. (2022). SES vs parent-child interaction: What predicts receptive and expressive vocabulary? The Korean Journal of Developmental Psychology,35(1),27-54."
