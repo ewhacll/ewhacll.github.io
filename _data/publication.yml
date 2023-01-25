@@ -1,8 +1,10 @@
  papers:
     - year: 2022
       list:
-        - title: "Yim et al., (in press). The effect of Vocabulary Intervention Based on a Semantic Network on Vocabulary Learning in Children with Language Delay. Communication Sciences & Disorders."
-        - title: "Oh, S., & Yim, D. (in press). Vocabulary acquisition of Down Syndrome and typically developing children according to reading strategies. Journal of Speech-Language & Hearing Disorders."
+        - title: "Kim, S., & Yim, D. (2022). The effect of Vocabulary Intervention Based on a Semantic Network on Vocabulary Learning in Children with Language Delay. Communication Sciences & Disorders, 27(4), 743-757."
+          pdf: "csd274.pdf"
+        - title: "Oh, S., & Yim, D. (2022). Vocabulary acquisition of Down Syndrome and typically developing children according to reading strategies. Journal of Speech-Language & Hearing Disorder, 31(4), 57-68."
+          pdf: "34743.pdf"
         - title: "Baek, S. J, & Yim, D. (2022). An eye-tracking study on reading comprehension and reading processing in children with reading difficulties according to story type and processing load. Communication Sciences & Disorders, 27(3),518-540."
           pdf: "csd273518.pdf"
         - title: "Kang, D., & Yim, D. (2022). The influence of Internal and External Factors on Vocabulary Development in Korean Monolingual and English-Korean Bilingual Children. Communication Sciences & Disorders,27(2),281-296."
