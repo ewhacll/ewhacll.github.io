@@ -3,7 +3,7 @@ layout: people_detail
 group: Research Assistant
 name: Seohyun Nam
 slug: seohyun
-image: "seohyun.jpg"
+image: "seohyunnam.jpg"
 email: 2646s@ewhain.net
 interests: [Intervention, Assessment]
 description: "Hello, I got a bachelor&#39;s degree in Linguistics and Cognitive Sciences
