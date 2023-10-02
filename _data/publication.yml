@@ -1,6 +1,8 @@
  papers:
     - year: 2023
       list:
+        - title: "Kim, W. J., Yoon, S. R., Nam, S. H., & Lee, Y. J., & Yim, D. (2023). The impact of reading modalities and text types on reading in school-aged children:an eye-tracking study. Applied Sciences, 13(19), 10802."
+          pdf: "applsci.pdf"
         - title: "Yang, Y., & Yim, D. (in press). Exploring the utility of narrative comprehension and production tasks to identify vocabulary delay using eye-tracker. Communication Sciences & Disorders."
         - title: "Chung, H.E., Kim, S.Y., & Yim, D. (2023). The relationship between linguistic disfluencies and cognitive abilities in school-aged children with and without vocabulary delay. Communication Sciences & Disorders, 28(2), 240-254."
           pdf: "csd282240.pdf"
