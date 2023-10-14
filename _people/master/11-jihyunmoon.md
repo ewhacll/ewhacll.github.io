@@ -1,7 +1,7 @@
 ---
 layout: people_detail
 group: Research Assistant
-name: Moon Jihyun
+name: Jihyun Moon
 slug: jihyunmoon
 image: "jihyunmoon.jpg"
 email: ringo0822@ewhain.net

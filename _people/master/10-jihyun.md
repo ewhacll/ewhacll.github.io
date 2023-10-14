@@ -1,7 +1,7 @@
 ---
 layout: people_detail
 group: Research Assistant
-name: Won Jihyun
+name: Jihyun Won
 slug: jihyun
 image: "jihyun.jpg"
 email: yui11217@naver.com
