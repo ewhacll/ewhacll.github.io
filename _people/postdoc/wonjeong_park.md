@@ -2,9 +2,9 @@
 layout: people_detail
 group: phd
 name: Wonjeong Park
-slug: wonjeong
-image: wonjeong.jpg
+slug: wonjeongpark
+image: wonjeongpark.jpg
 email: thisisforwj@gmail.com
 interests: [Intervention, Assessment]
-description: I am currently a Ph.D. student in the department of communication disorders at Ewha Womans University, and a member of Child Language Lab. I received M.A. in speech-language pathology at Ewha Womans University. My research interests are assessment and intervention of children’s language development through parents, and HCI(Human-Computer Interaction) techniques for these.
+description: I am Wonjeong Park, a postdoctoral researcher at the Department of Communication Disorders, Ewha Womans University. I have earned both my master's and doctoral degrees in Speech-Language Pathology from Ewha Womans University. My doctoral dissertation was focused on the assessment of vocabulary development in pre-school-aged children using multi-source data. Currently, I am conducting research on novel approaches to child language assessment/intervention that combine traditional methods with technology.
 ---
