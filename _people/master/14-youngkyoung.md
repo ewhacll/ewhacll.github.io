@@ -1,7 +1,7 @@
 ---
 layout: people_detail
 group: Research Assistant
-name: YoungKyoung Choi
+name: Young Kyoung Choi
 slug: youngkyoung
 image: "youngkyoung.jpg"
 email: cyk1605@ewhain.net
