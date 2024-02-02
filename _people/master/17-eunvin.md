@@ -2,7 +2,7 @@
 layout: people_detail
 group: Research Assistant
 name: Eunvin Chun
-slug: Eunvin
+slug: eunvin
 image: "eunvin.jpg"
 email: silvercongo3o@gmail.com
 interests: [Intervention, Assessment]
