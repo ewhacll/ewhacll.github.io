@@ -2,7 +2,7 @@
 layout: people_detail
 group: Research Assistant
 name: Ryunha Lee
-slug: Ryunha
+slug: ryunha
 image: "ryunha.jpg"
 email: cheshire7@ewhain.net
 interests: [Intervention, Assessment]
