@@ -2,7 +2,7 @@
 layout: people_detail
 group: Research Assistant
 name: Yelim Jang
-slug: yeim
+slug: yelim
 image: "yelim.jpg"
 email: yelim4936@ewhain.net
 interests: [Intervention, Assessment]

@@ -1,7 +1,7 @@
 ---
 layout: people_detail
 group: Research Assistant
-name: Ryunha Lee
+name: ryunha Lee
 slug: ryunha
 image: "ryunha.jpg"
 email: cheshire7@ewhain.net
