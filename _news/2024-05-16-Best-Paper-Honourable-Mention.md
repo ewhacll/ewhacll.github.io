@@ -1,0 +1,9 @@
+---
+layout: news_detail
+title: "Best Paper Honourable Mention"
+date: 2024-05-21 13:50:00 +0900
+image: CHI2024.jpeg
+detail: "The paper written by Dr. Yim's and POSTECH research team won the Best Paper Honourable Mention at CHI 2024."
+long_detail: "They attended CHI 2024 at the Hawaii Convention Center in Honolulu, Hawaii. The convention was held from May 11-16. The paper written by Dr. Yim's research team (Eunae Jeong, Jae-Eun Cho, and Wonjeong Park) and POSTECH's research team (Inseok Hwang, Jungeun Lee, Suwon Yoon, and Kyoosik Lee), titled 'Open Sesame? Open Salami! Personalizing Vocabulary Assessment-Intervention for Children via Pervasive Profiling and Bespoke Storybook Generation,' won the Best Paper Honourable Mention at CHI 2024!"
+---
+
