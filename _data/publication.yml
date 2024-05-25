@@ -1,6 +1,8 @@
  papers:
     - year: 2024
       list:
+        - title: "Lee, J., Yoon, S., Lee, K., Jeong, E., Cho, J.E., Park, W., Yim, D., & Hwang, I. (2024). Open Sesame? Open Salami! Personalizing Vocabulary Assessment-Intervention for Children via Pervasive Profiling and Bespoke Storybook Generation. In Proceedings of the CHI Conference on Human Factors in Computing Systems, (pp. 1-32)."
+          pdf: "OSOS_final(0513).pdf"
         - title: "Yoon, S.R., Hwang, R. Kim, S., Moon, J. H., & Yim, D. (2024). The influence of processing speed and capacity on story comprehension skills according to video speed. Journal of Speech-Language & Hearing Disorders, 33(2), 45-55."
           pdf: "Yoon(2024).pdf"
         - title: "Oh, Y.R., & Yim, D. (in press). The relationship between story comprehension, story grammar production, and executive function in preschool-age Korean-English bilingual children with and without language delay. Communication Sciences & Disorders."
@@ -16,7 +18,7 @@
           pdf: "csd29114.pdf"
         - title: "Joo, H.J., Kim, J.W., Nam, S.H., Chung, H.E., Kim, Y.T., & Yim, D. (2024). A preliminary study on the reliability and validity of the web-based parent screening of language and emotion. Korean Journal of Special Education, 58(4), 153-173."
           pdf: "kjse584.pdf"
-        - title: "Chung, H.E., Kim, Y. J., & Yim, D. (2024). Pragmatic abilities in attention deficit/hyperactivity disorder:A meta-analysis. Journal of Speech-Language & Hearing Disorders, 33(1), 67-77."
+        - title: "Chung, H.E., Kim, Y.J., & Yim, D. (2024). Pragmatic abilities in attention deficit/hyperactivity disorder:A meta-analysis. Journal of Speech-Language & Hearing Disorders, 33(1), 67-77."
           pdf: "jslhd33.pdf"
         - title: "Han, J.Y., & Yim, D. (2024). Neural network model predicting vocabulary learning:An exploratory study. Journal of Speech-Language & Hearing Disorders, 33(1), 23-34."
           pdf: "jslhd331.pdf"
