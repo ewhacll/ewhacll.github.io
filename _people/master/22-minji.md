@@ -2,7 +2,7 @@
 layout: people_detail
 group: Research Assistant
 name: Minji Kim
-slug: minji
+slug: minji-2
 image: "minji2.jpg"
 email: minji.k@ewha.ac.kr
 interests: [Intervention, Assessment]

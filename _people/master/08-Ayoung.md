@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: intern
+group: Research Assistant
 name: Ayoung Kim    
 slug: ayoung
 image: ayoung.jpg

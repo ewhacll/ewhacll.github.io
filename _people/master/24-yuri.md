@@ -2,7 +2,7 @@
 layout: people_detail
 group: Research Assistant
 name: Yuri Cho
-slug: yuri
+slug: yuri-2
 image: "yuri2.jpg"
 email: choyr@ewha.ac.kr
 interests: [Intervention, Assessment]
