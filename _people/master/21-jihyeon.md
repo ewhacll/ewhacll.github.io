@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: master
+group: Research Assistant
 name: Jihyeon Lee
 slug: jihyeon
 image: jihyeon.jpg
