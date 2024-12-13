@@ -1,6 +1,6 @@
 ---
 layout: news_detail
-title: The 2024 KASA conference
+title: 2024 KASA conference
 date: 2024-10-12 20:00:00 +0900
 image: 24kasa.jpeg
 detail: "Dr. Yim and CLL members attended the 2024 KASA conference. The conference was held on October 12. One oral presentation and eleven posters were presented."
