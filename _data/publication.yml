@@ -1,8 +1,10 @@
  papers:
+    - year: 2025
+      list:
+      - title: "Lee, J. W., Hong, K. H., Kim, Y. T., Oh, I. S., & Yim, D. (2025). Development and Usability Evaluation of a Web-Based Language and Emotional Behavior Screening System for Diverse Linguistic and Cultural Children. KIISE Transactions on Computing Practices, 31(1), 13-24."
+        pdf: "25leejw.pdf"
     - year: 2024
       list:
-        - title: "Lee, J. W., Hong, K. H., Kim, Y. T., Oh, I. S., & Yim, D. (2025). Development and Usability Evaluation of a Web-Based Language and Emotional Behavior Screening System for Diverse Linguistic and Cultural Children. KIISE Transactions on Computing Practices, 31(1), 13-24."
-          pdf: "25leejw.pdf"
         - title: "Kim, J. A. , Yim, D., & Kim, Y. T. (2024). An Analysis of the Relationships between Reading Abilities and Socio-emotional Behaviors of School- aged Children: The Mediation Effect of Pragmatic Language Abilities. Communication Sciences & Disorders, 29(3), 564-577."
           pdf: "24jungakim.pdf"
         - title: "Yang, Y., Yim, D., & Sung, J. E. (2024). Detection of Vocabulary Delay through Syntactic Complexity in Sentence Comprehension. Communication Sciences & Disorders, 29(3), 592-603."
