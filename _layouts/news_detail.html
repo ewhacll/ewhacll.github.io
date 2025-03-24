@@ -33,7 +33,7 @@ layout: default
                 class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center display-table sm-margin-30px-bottom wow fadeIn">
                 <div class="display-table-cell vertical-align-middle border-bottom-img">
                     {% if page.image %}
-                    {% assign image_url = page.image | prepend: "/assets/images/news/" %}
+                    {% assign image_url = page.image | prepend: "/assets/images/news/detail_image" %}
                     <img src="{{image_url}}" alt="" class="width-100">
                     {% else %}
                     <img src="https://dummyimage.com/600x400/cfcfcf/000000&text=Image" alt="" class="width-100">
