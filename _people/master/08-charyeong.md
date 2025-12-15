@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: alumni
 name: Charyeong Kim
 slug: charyeong
 image: "charyeong.jpg"

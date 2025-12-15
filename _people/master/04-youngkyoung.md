@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: alumni
 name: Young Kyoung Choi
 slug: youngkyoung
 image: "youngkyoung.jpg"

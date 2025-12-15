@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: alumni
 name: ryunha Lee
 slug: ryunha
 image: "ryunha.jpg"

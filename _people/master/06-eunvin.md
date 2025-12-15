@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: alumni
 name: Eunvin Chun
 slug: eunvin
 image: "eunvin.jpg"

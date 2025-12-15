@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: master
+group: alumni
 name: Jiwoon Kim
 slug: jiwoon
 image: jiwoon.jpg

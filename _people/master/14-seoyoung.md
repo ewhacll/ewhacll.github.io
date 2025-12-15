@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: alumni
 name: Seoyoung Kim
 slug: seoyoung
 image: "seoyoung.jpg"

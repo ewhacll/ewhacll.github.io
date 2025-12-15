@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: Research Assistant
+group: alumni
 name: Jungmin Woo
 slug: jungmin
 image: "jungmin.jpg"
