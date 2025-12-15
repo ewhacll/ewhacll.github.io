@@ -1,6 +1,6 @@
 ---
 layout: people_detail
-group: phd
+group: alumni
 name: Shinyoung Kim
 slug: shinyoung
 image: shinyoung.jpg
