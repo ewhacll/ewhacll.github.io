@@ -2,7 +2,7 @@
 layout: people_detail
 group: master
 name: Mijeong Jeong
-slug: mijeong
+slug: Mijeong
 image: JeongMiJeong.jpg
 email: po1167@ewha.ac.kr
 interests: [Language disorder, Parent coaching]
