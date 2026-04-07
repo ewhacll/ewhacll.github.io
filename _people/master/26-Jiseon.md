@@ -2,7 +2,7 @@
 layout: people_detail
 group: master
 name: Jiseon Yoon
-slug: Jiseon
+slug: jiseon
 image: Jiseon.jpg
 email: 252shg23@ewha.ac.kr
 interests: [Intervention, Parent coaching]
