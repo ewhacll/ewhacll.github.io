@@ -6,5 +6,4 @@ group: professor
 permalink: /dongsun
 interests: [Executive Function, Language Impairment, Bilingualism, Intervention, Eyetracking, Parent Training, Book Reading]
 image: dongsunyim.jpeg
-email: 
 ---
