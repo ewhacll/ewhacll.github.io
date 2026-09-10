@@ -2,7 +2,7 @@
 layout: people_detail
 group: master
 name: Hana Yoo
-slug: jiseon
+slug: hanayoo
 image: HanaYoo.png
 email: 
 interests: [Assessment, Parent coaching]

@@ -2,7 +2,7 @@
 layout: people_detail
 group: master
 name: JieunPark
-slug: JieunPark
+slug: jieunpark
 image: JieunPark61.jpeg
 email: 
 interests: [Narrative Skills, Pragmatic Development, Billingualism]
