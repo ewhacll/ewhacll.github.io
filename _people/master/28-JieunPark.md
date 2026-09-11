@@ -1,7 +1,7 @@
 ---
 layout: people_detail
 group: master
-name: JieunPark
+name: Jieun Park
 slug: jieunpark
 image: JieunPark61.jpeg
 email: 
