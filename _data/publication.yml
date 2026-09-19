@@ -1,6 +1,8 @@
  papers:
     - year: 2026
       list:
+       - title: "Kim, S., & Yim, D. (2026). Classification Accuracy of Text Comprehension Tasks for Identifying Children With Vocabulary Delay. Journal of Speech-Language & Hearing Disorders, 35(3), 1–16."
+         pdf: "2026_Classification Accuracy of Text Comprehension Tasks.pdf"
        - title: "Kim, C., & Yim, D. (in press). The Effect of Visual Cues on Language Problem-Solving Skills in School-aged Children: an Eye-tracking Study."
        - title: "Yim, D. (in press). Children’s Story Comprehension and Language production during Interactive Book Reading with AI versus an Adult. Communication Sciences & Disorders."
        - title: "Lim, H. E., & Yim, D. (in press). The Relationship between Narrative Comprehension according to Narrative Production Condition and Working Memory in Children with and without Specific Language Impairment. Communication Sciences & Disorders."
