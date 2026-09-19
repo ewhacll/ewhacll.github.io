@@ -1,10 +1,10 @@
 ---
 layout: people_detail
 group: master
-name: Jieun Park
-slug: jieunpark
-image: JieunPark61.jpeg
+name: Seojin Kim
+slug: seojinkim
+image: Seojin.jpg
 email: 
-interests: [Narrative Skills, Pragmatic Development, Billingualism]
-description: Hello! This is Jieun Park. Interacting with peers and children in diverse multilingual environments during my middle school years in the United States sparked my interest in language and linguistics. The linguistic knowledge I acquired during my undergraduate studies in Korean Language and Literature, combined with my post-graduation work experience communicating with diverse people, drew me to the field of Speech-Language Pathology. As a graduate student in Communication Disorders at Ewha Womans University, I am currently interested in the narrative skills and pragmatic development of children.
+interests: [Early Intervention, Language Development, Picture Book, Book Reading]
+description: Hello! I'm Seojin Kim. I hold a B.A. in Early Childhood Education and Art Therapy Counseling, and I am currently pursuing my Master's degree in Speech-Language Pathology at Ewha Womans University. During my undergraduate studies, I met many children who struggled with language, which made me realize the importance of early intervention and the role of school-based SLPs in early childhood settings. Together with my interest in picture books, this led me to focus on picture book-based intervention. I hope to explore how book reading can effectively support children's language development, and I look forward to growing as a researcher at CLL.
 ---
